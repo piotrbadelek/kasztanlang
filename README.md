@@ -21,6 +21,6 @@ Wypisanie licznika
 
 
 ```kasztanlang
-kasztan_jakisplik.php
+kasztan_jakisplik.php;
 ```
 Uruchom plik php
