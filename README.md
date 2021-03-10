@@ -113,3 +113,17 @@ kasztan+;
 kasztan+;
 kasztan;
 ```
+Przepiękny kod, nieprawdaż?
+
+Na szczęście możemy go przyśpieszyć za pomocą PHP.
+
+plik z kasztanlang:
+```
+kasztan_h.php
+kasztan;
+```
+plik z php:
+```php
+<?php
+$count = 84;
+```
